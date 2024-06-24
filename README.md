@@ -1,0 +1,8 @@
+Program Kwisatz Haderach/Dune Prototype 1:
+
+The idea of this program is to allow users to be interactive with the program.
+The program ask users for their name and a question as the input.
+Once completed the program would then tell the user an answer which would be a line from the movie.
+What I'm trying to add is a continiuation of the program that would allow the user to ask another question, and for the program to generte another answer.
+That is currently what bugging me right now, if anyone has any recommendations I'm all ears it's my first project, i just started programming in Python.
+I'm open to learning
